@@ -1,0 +1,9 @@
+Links
+------------------------------------------------------------------------------
+
+.. include:: parts/links/github.inc
+
+.. include:: parts/links/gitlab.inc
+
+.. include:: parts/links/readthedocs.inc
+
