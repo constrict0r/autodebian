@@ -2,3 +2,99 @@
 	path = docs/source/parts
 	url = https://gitlab.com/constrict0r/parts.git
 	branch = master
+[submodule "aptitude"]
+	path = aptitude
+	url = https://gitlab.com/constrict0r/aptitude
+	branch = master
+[submodule "upgrade"]
+	path = upgrade
+	url = https://gitlab.com/constrict0r/upgrade
+	branch = master
+[submodule "sourcez"]
+	path = sourcez
+	url = https://gitlab.com/constrict0r/sourcez
+	branch = master
+[submodule "jsnode"]
+	path = jsnode
+	url = https://gitlab.com/constrict0r/jsnode
+	branch = master
+[submodule "pyp"]
+	path = pyp
+	url = https://gitlab.com/constrict0r/pyp
+	branch = master
+[submodule "sysconfig"]
+	path = sysconfig
+	url = https://gitlab.com/constrict0r/sysconfig
+	branch = master
+[submodule "servicez"]
+	path = servicez
+	url = https://gitlab.com/constrict0r/servicez
+	branch = master
+[submodule "users"]
+	path = users
+	url = https://gitlab.com/constrict0r/users
+	branch = master
+[submodule "groups"]
+	path = groups
+	url = https://gitlab.com/constrict0r/groups
+	branch = master
+[submodule "userconfig"]
+	path = userconfig
+	url = https://gitlab.com/constrict0r/userconfig
+	branch = master
+[submodule "task"]
+	path = task
+	url = https://gitlab.com/constrict0r/task
+	branch = master
+[submodule "unify"]
+	path = unify
+	url = https://gitlab.com/constrict0r/unify
+	branch = master
+[submodule "constructor"]
+	path = constructor
+	url = https://gitlab.com/constrict0r/constructor
+	branch = master
+[submodule "basik"]
+	path = basik
+	url = https://gitlab.com/constrict0r/basik
+	branch = master
+[submodule "desktop"]
+	path = desktop
+	url = https://gitlab.com/constrict0r/desktop
+	branch = master
+[submodule "home"]
+	path = home
+	url = https://gitlab.com/constrict0r/home
+	branch = master
+[submodule "kick"]
+	path = kick
+	url = https://gitlab.com/constrict0r/kick
+	branch = master
+[submodule "iso"]
+	path = iso
+	url = https://gitlab.com/constrict0r/iso
+	branch = master
+[submodule "madvillain"]
+	path = madvillain
+	url = https://gitlab.com/constrict0r/madvillain
+	branch = master
+[submodule "devels"]
+	path = devels
+	url = https://gitlab.com/constrict0r/devels
+	branch = master
+[submodule "develpy"]
+	path = develpy
+	url = https://gitlab.com/constrict0r/develpy
+	branch = master
+[submodule "develmicro"]
+	path = develmicro
+	url = https://gitlab.com/constrict0r/develmicro
+	branch = master
+[submodule "develbase"]
+	path = develbase
+	url = https://gitlab.com/constrict0r/develbase
+	branch = master
+[submodule "latveria"]
+	path = latveria
+	url = https://gitlab.com/constrict0r/latveria
+	branch = master

@@ -24,6 +24,8 @@ Contents
 
 .. toctree::
 
+   usage
+
    components
 
    license

@@ -33,6 +33,7 @@ Source code on:
 Contents
 ********
 
+* `Usage <#Usage>`_
 * `Components <#Components>`_
    * `aptitude <#aptitude>`_
    * `basik <#basik>`_
@@ -63,6 +64,16 @@ Contents
 * `UML <#UML>`_
    * `Deployment <#deployment>`_
 * `Author <#Author>`_
+
+Usage
+*****
+
+Clone the repository and its submodules:
+
+::
+
+   git clone --recurse-submodules -j8 git://gitlab.com/constrict0r/autodebian.git
+
 
 Components
 **********
