@@ -7,9 +7,8 @@ This repository provides the following file tree layout:
 
  home/
  ├── .config
- │   ├── gtk-3.0
- │   │   └── bookmarks
- │   └── monitors.xml
+ │   └── gtk-3.0
+ │      └── bookmarks
  ├── Documentos
  │   ├── biblioteca
  │   │   └── piscunov-cálculo-diferencial-integral-1.pdf
@@ -22,12 +21,11 @@ This repository provides the following file tree layout:
  │       └── doom_master.jpg
  ├── Instaladores
  │   └── firmware
- │       ├── firmware-iwlwifi_20161130-4_all.deb
- │       └── firmware-realtek_20161130-4_all.deb
+ │       └── firmware-iwlwifi_20190114-2_all.deb
  ├── LICENSE
  ├── little-lab
  ├── Música
- │   └── Doombots.pls
+ │   └── Doombeats.pls
  ├── README.md
  ├── repos
  └── Vídeos
