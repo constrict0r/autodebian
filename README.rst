@@ -469,6 +469,10 @@ By default this role applies the following configuration:
 
    * ssh-askpass
 
+   * texlive-latex-base
+
+   * texlive-latex-extra
+
    * tree
 
 * Configures the base software:
@@ -579,6 +583,10 @@ By default this role applies the following configuration:
    * retext
 
    * ssh-askpass
+
+   * texlive-latex-base
+
+   * texlive-latex-extra
 
    * tree
 
@@ -789,6 +797,10 @@ By default this role applies the following configuration:
    * retext
 
    * ssh-askpass
+
+   * texlive-latex-base
+
+   * texlive-latex-extra
 
    * tree
 
@@ -1044,6 +1056,10 @@ By default this role applies the following configuration:
    * retext
 
    * ssh-askpass
+
+   * texlive-latex-base
+
+   * texlive-latex-extra
 
    * tree
 
@@ -1474,6 +1490,8 @@ This repository provides the following file tree layout:
    ├── little-lab
    ├── Música
    │   └── Doombeats.pls
+   ├── org
+   │   └── org-cv
    ├── README.md
    ├── repos
    └── Vídeos
@@ -1598,6 +1616,10 @@ By default this role applies the following configuration:
    * retext
 
    * ssh-askpass
+
+   * texlive-latex-base
+
+   * texlive-latex-extra
 
    * tree
 
