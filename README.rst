@@ -469,6 +469,8 @@ By default this role applies the following configuration:
 
    * ssh-askpass
 
+   * texlive-bibtex-extra
+
    * texlive-latex-base
 
    * texlive-latex-extra
@@ -583,6 +585,8 @@ By default this role applies the following configuration:
    * retext
 
    * ssh-askpass
+
+   * texlive-bibtex-extra
 
    * texlive-latex-base
 
@@ -797,6 +801,8 @@ By default this role applies the following configuration:
    * retext
 
    * ssh-askpass
+
+   * texlive-bibtex-extra
 
    * texlive-latex-base
 
@@ -1056,6 +1062,8 @@ By default this role applies the following configuration:
    * retext
 
    * ssh-askpass
+
+   * texlive-bibtex-extra
 
    * texlive-latex-base
 
@@ -1616,6 +1624,8 @@ By default this role applies the following configuration:
    * retext
 
    * ssh-askpass
+
+   * texlive-bibtex-extra
 
    * texlive-latex-base
 
